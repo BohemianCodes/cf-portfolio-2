@@ -60,3 +60,16 @@ nav {
 	transition: color 500ms;
 	transition: background-color 500ms;
 }
+
+/*Services Section*/
+
+#services h2 {
+	font-family: 'Pathway Gothic One';
+	text-align: center;
+	margin-top: 70px;
+}
+
+#services img {
+	margin: 0 auto;
+	text-align: center;
+}
